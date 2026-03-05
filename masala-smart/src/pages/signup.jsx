@@ -226,7 +226,8 @@ function Signup() {
         }
 
         .link{
-          color: #007bff;
+          color: #2268b3;
+          cursor: pointer;
         }
 
         .error-message {
